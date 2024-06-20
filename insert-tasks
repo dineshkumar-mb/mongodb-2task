@@ -1,0 +1,7 @@
+db.tasks.insertMany([
+{"task_id":1,"task_name":"create-react-app","description":"create-react-app","date":new Date("2020-10-17"),"submitted":[1,3,4], "not_submitted": [2,5]},
+{"task_id":2,"task_name":"MySQL tables","description":"create tables in MySQL","date":new Date("2020-10-18"),"submitted":[1,3,4], "not_submitted": [2,5]},
+{"task_id":3,"task_name":"HTML forms","description":"create a form in HTML","date":new Date("2020-10-19"),"submitted":[1,3,4], "not_submitted": [2,5]},
+{"task_id":4,"task_name":"API","description":"write code to fetch data from API","date":new Date("2020-10-20"),"submitted":[1,3,4], "not_submitted": [2,5]},
+{"task_id":5,"task_name":"CSS","description":"design a responsive page","date":new Date("2020-10-21"),"submitted":[1,3,4], "not_submitted": [2,5]}
+]);
