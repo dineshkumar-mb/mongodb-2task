@@ -1,0 +1,7 @@
+db.codekata.insertMany([
+{"prob_id":1,"catagory_name":"Input/Output","description":"Write a code to get the input in the given format and print the output in the given format."},
+{"prob_id":2,"catagory_name":"absolute beginner","description":"Write a code to get an integer N and print the even values from 1 till N in a separate line."},
+{"prob_id":3,"catagory_name":"Array","description":"A person saves his monthly saving according to given schema. He saves same amount of money which is equal to the money saved in immediate previous two months. Assume, initially he saved 1000 rupees and in first month he saved another 1000. Your task is to tell how much he had totally saved at the end of ‘n’ months"},
+{"prob_id":4,"catagory_name":"absolute beginner","description":"Write a code get an integer number as input and print the sum of the digits."},
+{"prob_id":5,"catagory_name":"absolute beginner","description":"Write a code get an integer number as input and print the odd and even digits of the number separately."}
+]);
