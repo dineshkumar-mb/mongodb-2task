@@ -1,0 +1,7 @@
+db.topics.insertMany([
+{"id":1,"name":"HTML","description":"HTML","date":new Date("2020-10-15")},
+{"id":2,"name":"Javascript","description":"Javascript","date":new Date("2020-10-16")},
+{"id":3,"name":"ReactJS","description":"ReactJS","date":new Date("2020-10-17")},
+{"id":4,"name":"MongoDB","description":"MongoDB","date":new Date("2020-10-18")},
+{"id":5,"name":"NodeJS","description":"NodeJS","date":new Date("2020-10-19")}
+]);
